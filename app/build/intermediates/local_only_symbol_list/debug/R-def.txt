@@ -1,0 +1,20 @@
+R_DEF: Internal format may change without notice
+local
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btn_toggle
+id tv_status
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string channel_description
+string channel_name
+string connected
+string grant_permission
+string permission_required
+string service_running
+string start_service
+string stop_service
+string waiting_connection
+style Theme.YoloOverlay

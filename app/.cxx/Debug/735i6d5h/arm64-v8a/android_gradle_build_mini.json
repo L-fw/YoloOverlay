@@ -1,0 +1,35 @@
+{
+  "buildFiles": [
+    "D:\\pycharm\\YoloGPU\\YoloOverlay\\app\\src\\main\\jni\\CMakeLists.txt",
+    "D:\\pycharm\\YoloGPU\\YoloOverlay\\app\\src\\main\\jni\\ncnn-android-vulkan\\arm64-v8a\\lib\\cmake\\glslang\\glslang-config-version.cmake",
+    "D:\\pycharm\\YoloGPU\\YoloOverlay\\app\\src\\main\\jni\\ncnn-android-vulkan\\arm64-v8a\\lib\\cmake\\glslang\\glslang-config.cmake",
+    "D:\\pycharm\\YoloGPU\\YoloOverlay\\app\\src\\main\\jni\\ncnn-android-vulkan\\arm64-v8a\\lib\\cmake\\glslang\\glslang-targets-release.cmake",
+    "D:\\pycharm\\YoloGPU\\YoloOverlay\\app\\src\\main\\jni\\ncnn-android-vulkan\\arm64-v8a\\lib\\cmake\\glslang\\glslang-targets.cmake",
+    "D:\\pycharm\\YoloGPU\\YoloOverlay\\app\\src\\main\\jni\\ncnn-android-vulkan\\arm64-v8a\\lib\\cmake\\ncnn\\ncnn-release.cmake",
+    "D:\\pycharm\\YoloGPU\\YoloOverlay\\app\\src\\main\\jni\\ncnn-android-vulkan\\arm64-v8a\\lib\\cmake\\ncnn\\ncnn.cmake",
+    "D:\\pycharm\\YoloGPU\\YoloOverlay\\app\\src\\main\\jni\\ncnn-android-vulkan\\arm64-v8a\\lib\\cmake\\ncnn\\ncnnConfig.cmake",
+    "D:\\pycharm\\YoloGPU\\YoloOverlay\\app\\src\\main\\jni\\ncnn-android-vulkan\\arm64-v8a\\lib\\cmake\\ncnn\\ncnnConfigVersion.cmake"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "D:\\Android\\SDK\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "D:\\pycharm\\YoloGPU\\YoloOverlay\\app\\.cxx\\Debug\\735i6d5h\\arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "D:\\Android\\SDK\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "D:\\pycharm\\YoloGPU\\YoloOverlay\\app\\.cxx\\Debug\\735i6d5h\\arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "yolo_ncnn::@6890427a1f51a3e7e1df": {
+      "artifactName": "yolo_ncnn",
+      "abi": "arm64-v8a",
+      "output": "D:\\pycharm\\YoloGPU\\YoloOverlay\\app\\build\\intermediates\\cxx\\Debug\\735i6d5h\\obj\\arm64-v8a\\libyolo_ncnn.so",
+      "runtimeFiles": []
+    }
+  }
+}

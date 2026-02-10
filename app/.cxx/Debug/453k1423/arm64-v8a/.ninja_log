@@ -1,0 +1,5 @@
+# ninja log v5
+1	51	7923105297723050	CMakeFiles/yolo_ncnn.dir/yolo_ncnn_stub.cpp.o	88b68f929ffc54e2
+654	724	7924118197601653	D:/pycharm/YoloGPU/YoloOverlay/app/build/intermediates/cxx/Debug/453k1423/obj/arm64-v8a/libyolo_ncnn.so	2707440d840e0e40
+1	653	7924118196894840	CMakeFiles/yolo_ncnn.dir/yolo_ncnn.cpp.o	decbd79453dd4d14
+0	135	7924147775976282	D:/pycharm/YoloGPU/YoloOverlay/app/build/intermediates/cxx/Debug/453k1423/obj/arm64-v8a/libyolo_ncnn.so	6b3ce6ed0bc8c381

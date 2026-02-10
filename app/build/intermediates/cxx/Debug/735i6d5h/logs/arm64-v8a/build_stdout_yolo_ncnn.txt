@@ -1,0 +1,121 @@
+ninja: Entering directory `D:\pycharm\YoloGPU\YoloOverlay\app\.cxx\Debug\735i6d5h\arm64-v8a'
+[1/1] Linking CXX shared library D:\pycharm\YoloGPU\YoloOverlay\app\build\intermediates\cxx\Debug\735i6d5h\obj\arm64-v8a\libyolo_ncnn.so
+FAILED: D:/pycharm/YoloGPU/YoloOverlay/app/build/intermediates/cxx/Debug/735i6d5h/obj/arm64-v8a/libyolo_ncnn.so 
+cmd.exe /C "cd . && D:\Android\SDK\ndk\25.2.9519653\toolchains\llvm\prebuilt\windows-x86_64\bin\clang++.exe --target=aarch64-none-linux-android26 --sysroot=D:/Android/SDK/ndk/25.2.9519653/toolchains/llvm/prebuilt/windows-x86_64/sysroot -fPIC -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++17 -fno-limit-debug-info  -Wl,--build-id=sha1 -Wl,--no-rosegment -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments -shared -Wl,-soname,libyolo_ncnn.so -o D:\pycharm\YoloGPU\YoloOverlay\app\build\intermediates\cxx\Debug\735i6d5h\obj\arm64-v8a\libyolo_ncnn.so CMakeFiles/yolo_ncnn.dir/yolo_ncnn.cpp.o  D:/pycharm/YoloGPU/YoloOverlay/app/src/main/jni/ncnn-android-vulkan/arm64-v8a/lib/libncnn.a  -landroid  -llog  -ljnigraphics  -fopenmp  -static-openmp  -ldl  -landroid  -llog  -ljnigraphics  D:/pycharm/YoloGPU/YoloOverlay/app/src/main/jni/ncnn-android-vulkan/arm64-v8a/lib/libSPIRV.a  D:/pycharm/YoloGPU/YoloOverlay/app/src/main/jni/ncnn-android-vulkan/arm64-v8a/lib/libglslang.a  -pthread  -latomic -lm && cd ."
+ld: error: undefined symbol: vtable for std::__ndk1::basic_stringstream<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> >
+>>> referenced by Initialize.cpp
+>>>               Initialize.cpp.o:(glslang::TBuiltIns::initialize(int, EProfile, glslang::SpvVersion const&)) in archive D:/pycharm/YoloGPU/YoloOverlay/app/src/main/jni/ncnn-android-vulkan/arm64-v8a/lib/libglslang.a
+>>> referenced by Initialize.cpp
+>>>               Initialize.cpp.o:(glslang::TBuiltIns::initialize(int, EProfile, glslang::SpvVersion const&)) in archive D:/pycharm/YoloGPU/YoloOverlay/app/src/main/jni/ncnn-android-vulkan/arm64-v8a/lib/libglslang.a
+>>> referenced by Initialize.cpp
+>>>               Initialize.cpp.o:(glslang::TBuiltIns::initialize(int, EProfile, glslang::SpvVersion const&)) in archive D:/pycharm/YoloGPU/YoloOverlay/app/src/main/jni/ncnn-android-vulkan/arm64-v8a/lib/libglslang.a
+>>> referenced 3 more times
+>>> the vtable symbol may be undefined because the class is missing its key function (see https://lld.llvm.org/missingkeyfunction)
+
+ld: error: undefined symbol: VTT for std::__ndk1::basic_stringstream<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> >
+>>> referenced by Initialize.cpp
+>>>               Initialize.cpp.o:(glslang::TBuiltIns::initialize(int, EProfile, glslang::SpvVersion const&)) in archive D:/pycharm/YoloGPU/YoloOverlay/app/src/main/jni/ncnn-android-vulkan/arm64-v8a/lib/libglslang.a
+>>> referenced by Initialize.cpp
+>>>               Initialize.cpp.o:(glslang::TBuiltIns::initialize(int, EProfile, glslang::SpvVersion const&)) in archive D:/pycharm/YoloGPU/YoloOverlay/app/src/main/jni/ncnn-android-vulkan/arm64-v8a/lib/libglslang.a
+>>> referenced by Initialize.cpp
+>>>               Initialize.cpp.o:(glslang::TBuiltIns::initialize(int, EProfile, glslang::SpvVersion const&)) in archive D:/pycharm/YoloGPU/YoloOverlay/app/src/main/jni/ncnn-android-vulkan/arm64-v8a/lib/libglslang.a
+>>> referenced 7 more times
+
+ld: error: undefined symbol: vtable for std::__ndk1::basic_stringbuf<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> >
+>>> referenced by Initialize.cpp
+>>>               Initialize.cpp.o:(glslang::TBuiltIns::initialize(int, EProfile, glslang::SpvVersion const&)) in archive D:/pycharm/YoloGPU/YoloOverlay/app/src/main/jni/ncnn-android-vulkan/arm64-v8a/lib/libglslang.a
+>>> referenced by Initialize.cpp
+>>>               Initialize.cpp.o:(glslang::TBuiltIns::initialize(int, EProfile, glslang::SpvVersion const&)) in archive D:/pycharm/YoloGPU/YoloOverlay/app/src/main/jni/ncnn-android-vulkan/arm64-v8a/lib/libglslang.a
+>>> referenced by Initialize.cpp
+>>>               Initialize.cpp.o:(glslang::TBuiltIns::initialize(int, EProfile, glslang::SpvVersion const&)) in archive D:/pycharm/YoloGPU/YoloOverlay/app/src/main/jni/ncnn-android-vulkan/arm64-v8a/lib/libglslang.a
+>>> referenced 19 more times
+>>> the vtable symbol may be undefined because the class is missing its key function (see https://lld.llvm.org/missingkeyfunction)
+
+ld: error: undefined symbol: std::__ndk1::basic_stringbuf<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> >::str() const
+>>> referenced by Initialize.cpp
+>>>               Initialize.cpp.o:(glslang::TBuiltIns::initialize(int, EProfile, glslang::SpvVersion const&)) in archive D:/pycharm/YoloGPU/YoloOverlay/app/src/main/jni/ncnn-android-vulkan/arm64-v8a/lib/libglslang.a
+>>> referenced by Initialize.cpp
+>>>               Initialize.cpp.o:(glslang::TBuiltIns::initialize(int, EProfile, glslang::SpvVersion const&)) in archive D:/pycharm/YoloGPU/YoloOverlay/app/src/main/jni/ncnn-android-vulkan/arm64-v8a/lib/libglslang.a
+>>> referenced by Initialize.cpp
+>>>               Initialize.cpp.o:(glslang::TBuiltIns::initialize(int, EProfile, glslang::SpvVersion const&)) in archive D:/pycharm/YoloGPU/YoloOverlay/app/src/main/jni/ncnn-android-vulkan/arm64-v8a/lib/libglslang.a
+>>> referenced 5 more times
+
+ld: error: undefined symbol: vtable for std::__ndk1::basic_ostringstream<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> >
+>>> referenced by Initialize.cpp
+>>>               Initialize.cpp.o:(glslang::TBuiltIns::initialize(int, EProfile, glslang::SpvVersion const&)) in archive D:/pycharm/YoloGPU/YoloOverlay/app/src/main/jni/ncnn-android-vulkan/arm64-v8a/lib/libglslang.a
+>>> referenced by Initialize.cpp
+>>>               Initialize.cpp.o:(glslang::TBuiltIns::initialize(int, EProfile, glslang::SpvVersion const&)) in archive D:/pycharm/YoloGPU/YoloOverlay/app/src/main/jni/ncnn-android-vulkan/arm64-v8a/lib/libglslang.a
+>>> referenced by SpirvIntrinsics.cpp
+>>>               SpirvIntrinsics.cpp.o:(std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> > std::to_string<bool>(bool const&)) in archive D:/pycharm/YoloGPU/YoloOverlay/app/src/main/jni/ncnn-android-vulkan/arm64-v8a/lib/libglslang.a
+>>> referenced 5 more times
+>>> the vtable symbol may be undefined because the class is missing its key function (see https://lld.llvm.org/missingkeyfunction)
+
+ld: error: undefined symbol: VTT for std::__ndk1::basic_ostringstream<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> >
+>>> referenced by Initialize.cpp
+>>>               Initialize.cpp.o:(glslang::TBuiltIns::initialize(int, EProfile, glslang::SpvVersion const&)) in archive D:/pycharm/YoloGPU/YoloOverlay/app/src/main/jni/ncnn-android-vulkan/arm64-v8a/lib/libglslang.a
+>>> referenced by Initialize.cpp
+>>>               Initialize.cpp.o:(glslang::TBuiltIns::initialize(int, EProfile, glslang::SpvVersion const&)) in archive D:/pycharm/YoloGPU/YoloOverlay/app/src/main/jni/ncnn-android-vulkan/arm64-v8a/lib/libglslang.a
+>>> referenced by Initialize.cpp
+>>>               Initialize.cpp.o:(glslang::TBuiltIns::initialize(int, EProfile, glslang::SpvVersion const&)) in archive D:/pycharm/YoloGPU/YoloOverlay/app/src/main/jni/ncnn-android-vulkan/arm64-v8a/lib/libglslang.a
+>>> referenced 9 more times
+
+ld: error: undefined symbol: vtable for std::__ndk1::basic_istringstream<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> >
+>>> referenced by PpContext.cpp
+>>>               PpContext.cpp.o:(glslang::TPpContext::TPpContext(glslang::TParseContextBase&, std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> > const&, glslang::TShader::Includer&)) in archive D:/pycharm/YoloGPU/YoloOverlay/app/src/main/jni/ncnn-android-vulkan/arm64-v8a/lib/libglslang.a
+>>> referenced by PpContext.cpp
+>>>               PpContext.cpp.o:(glslang::TPpContext::TPpContext(glslang::TParseContextBase&, std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> > const&, glslang::TShader::Includer&)) in archive D:/pycharm/YoloGPU/YoloOverlay/app/src/main/jni/ncnn-android-vulkan/arm64-v8a/lib/libglslang.a
+>>> the vtable symbol may be undefined because the class is missing its key function (see https://lld.llvm.org/missingkeyfunction)
+
+ld: error: undefined symbol: VTT for std::__ndk1::basic_istringstream<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> >
+>>> referenced by PpContext.cpp
+>>>               PpContext.cpp.o:(glslang::TPpContext::TPpContext(glslang::TParseContextBase&, std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> > const&, glslang::TShader::Includer&)) in archive D:/pycharm/YoloGPU/YoloOverlay/app/src/main/jni/ncnn-android-vulkan/arm64-v8a/lib/libglslang.a
+>>> referenced by PpContext.cpp
+>>>               PpContext.cpp.o:(glslang::TPpContext::TPpContext(glslang::TParseContextBase&, std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> > const&, glslang::TShader::Includer&)) in archive D:/pycharm/YoloGPU/YoloOverlay/app/src/main/jni/ncnn-android-vulkan/arm64-v8a/lib/libglslang.a
+>>> referenced by PpContext.cpp
+>>>               PpContext.cpp.o:(glslang::TPpContext::~TPpContext()) in archive D:/pycharm/YoloGPU/YoloOverlay/app/src/main/jni/ncnn-android-vulkan/arm64-v8a/lib/libglslang.a
+>>> referenced 1 more times
+
+ld: error: undefined symbol: vtable for std::__ndk1::basic_ofstream<char, std::__ndk1::char_traits<char> >
+>>> referenced by GlslangToSpv.cpp
+>>>               GlslangToSpv.cpp.o:(glslang::OutputSpvBin(std::__ndk1::vector<unsigned int, std::__ndk1::allocator<unsigned int> > const&, char const*)) in archive D:/pycharm/YoloGPU/YoloOverlay/app/src/main/jni/ncnn-android-vulkan/arm64-v8a/lib/libglslang.a
+>>> referenced by GlslangToSpv.cpp
+>>>               GlslangToSpv.cpp.o:(glslang::OutputSpvBin(std::__ndk1::vector<unsigned int, std::__ndk1::allocator<unsigned int> > const&, char const*)) in archive D:/pycharm/YoloGPU/YoloOverlay/app/src/main/jni/ncnn-android-vulkan/arm64-v8a/lib/libglslang.a
+>>> referenced by GlslangToSpv.cpp
+>>>               GlslangToSpv.cpp.o:(glslang::OutputSpvHex(std::__ndk1::vector<unsigned int, std::__ndk1::allocator<unsigned int> > const&, char const*, char const*)) in archive D:/pycharm/YoloGPU/YoloOverlay/app/src/main/jni/ncnn-android-vulkan/arm64-v8a/lib/libglslang.a
+>>> referenced 1 more times
+>>> the vtable symbol may be undefined because the class is missing its key function (see https://lld.llvm.org/missingkeyfunction)
+
+ld: error: undefined symbol: VTT for std::__ndk1::basic_ofstream<char, std::__ndk1::char_traits<char> >
+>>> referenced by GlslangToSpv.cpp
+>>>               GlslangToSpv.cpp.o:(glslang::OutputSpvBin(std::__ndk1::vector<unsigned int, std::__ndk1::allocator<unsigned int> > const&, char const*)) in archive D:/pycharm/YoloGPU/YoloOverlay/app/src/main/jni/ncnn-android-vulkan/arm64-v8a/lib/libglslang.a
+>>> referenced by GlslangToSpv.cpp
+>>>               GlslangToSpv.cpp.o:(glslang::OutputSpvBin(std::__ndk1::vector<unsigned int, std::__ndk1::allocator<unsigned int> > const&, char const*)) in archive D:/pycharm/YoloGPU/YoloOverlay/app/src/main/jni/ncnn-android-vulkan/arm64-v8a/lib/libglslang.a
+>>> referenced by GlslangToSpv.cpp
+>>>               GlslangToSpv.cpp.o:(glslang::OutputSpvHex(std::__ndk1::vector<unsigned int, std::__ndk1::allocator<unsigned int> > const&, char const*, char const*)) in archive D:/pycharm/YoloGPU/YoloOverlay/app/src/main/jni/ncnn-android-vulkan/arm64-v8a/lib/libglslang.a
+>>> referenced 3 more times
+
+ld: error: undefined symbol: std::__ndk1::basic_filebuf<char, std::__ndk1::char_traits<char> >::basic_filebuf()
+>>> referenced by GlslangToSpv.cpp
+>>>               GlslangToSpv.cpp.o:(glslang::OutputSpvBin(std::__ndk1::vector<unsigned int, std::__ndk1::allocator<unsigned int> > const&, char const*)) in archive D:/pycharm/YoloGPU/YoloOverlay/app/src/main/jni/ncnn-android-vulkan/arm64-v8a/lib/libglslang.a
+>>> referenced by GlslangToSpv.cpp
+>>>               GlslangToSpv.cpp.o:(glslang::OutputSpvHex(std::__ndk1::vector<unsigned int, std::__ndk1::allocator<unsigned int> > const&, char const*, char const*)) in archive D:/pycharm/YoloGPU/YoloOverlay/app/src/main/jni/ncnn-android-vulkan/arm64-v8a/lib/libglslang.a
+
+ld: error: undefined symbol: std::__ndk1::basic_ofstream<char, std::__ndk1::char_traits<char> >::open(char const*, unsigned int)
+>>> referenced by GlslangToSpv.cpp
+>>>               GlslangToSpv.cpp.o:(glslang::OutputSpvBin(std::__ndk1::vector<unsigned int, std::__ndk1::allocator<unsigned int> > const&, char const*)) in archive D:/pycharm/YoloGPU/YoloOverlay/app/src/main/jni/ncnn-android-vulkan/arm64-v8a/lib/libglslang.a
+>>> referenced by GlslangToSpv.cpp
+>>>               GlslangToSpv.cpp.o:(glslang::OutputSpvHex(std::__ndk1::vector<unsigned int, std::__ndk1::allocator<unsigned int> > const&, char const*, char const*)) in archive D:/pycharm/YoloGPU/YoloOverlay/app/src/main/jni/ncnn-android-vulkan/arm64-v8a/lib/libglslang.a
+
+ld: error: undefined symbol: std::__ndk1::basic_filebuf<char, std::__ndk1::char_traits<char> >::close()
+>>> referenced by GlslangToSpv.cpp
+>>>               GlslangToSpv.cpp.o:(glslang::OutputSpvBin(std::__ndk1::vector<unsigned int, std::__ndk1::allocator<unsigned int> > const&, char const*)) in archive D:/pycharm/YoloGPU/YoloOverlay/app/src/main/jni/ncnn-android-vulkan/arm64-v8a/lib/libglslang.a
+>>> referenced by GlslangToSpv.cpp
+>>>               GlslangToSpv.cpp.o:(glslang::OutputSpvHex(std::__ndk1::vector<unsigned int, std::__ndk1::allocator<unsigned int> > const&, char const*, char const*)) in archive D:/pycharm/YoloGPU/YoloOverlay/app/src/main/jni/ncnn-android-vulkan/arm64-v8a/lib/libglslang.a
+
+ld: error: undefined symbol: std::__ndk1::basic_filebuf<char, std::__ndk1::char_traits<char> >::~basic_filebuf()
+>>> referenced by GlslangToSpv.cpp
+>>>               GlslangToSpv.cpp.o:(glslang::OutputSpvBin(std::__ndk1::vector<unsigned int, std::__ndk1::allocator<unsigned int> > const&, char const*)) in archive D:/pycharm/YoloGPU/YoloOverlay/app/src/main/jni/ncnn-android-vulkan/arm64-v8a/lib/libglslang.a
+>>> referenced by GlslangToSpv.cpp
+>>>               GlslangToSpv.cpp.o:(glslang::OutputSpvHex(std::__ndk1::vector<unsigned int, std::__ndk1::allocator<unsigned int> > const&, char const*, char const*)) in archive D:/pycharm/YoloGPU/YoloOverlay/app/src/main/jni/ncnn-android-vulkan/arm64-v8a/lib/libglslang.a
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+ninja: build stopped: subcommand failed.

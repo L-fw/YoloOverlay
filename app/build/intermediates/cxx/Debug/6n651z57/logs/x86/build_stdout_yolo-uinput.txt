@@ -1,0 +1,2 @@
+ninja: Entering directory `D:\pycharm\YoloGPU\YoloOverlay\app\.cxx\Debug\6n651z57\x86'
+ninja: no work to do.

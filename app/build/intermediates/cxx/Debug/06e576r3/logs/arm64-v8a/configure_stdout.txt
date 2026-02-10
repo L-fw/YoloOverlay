@@ -1,0 +1,4 @@
+-- NCNN found: D:/pycharm/YoloGPU/YoloOverlay/app/src/main/jni/ncnn-android-vulkan/arm64-v8a/lib/cmake/ncnn
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/pycharm/YoloGPU/YoloOverlay/app/.cxx/Debug/06e576r3/arm64-v8a

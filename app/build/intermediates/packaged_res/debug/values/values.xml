@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">YOLO Overlay</string>
+    <string name="channel_description">显示 YOLO 检测结果的悬浮窗服务</string>
+    <string name="channel_name">YOLO Overlay Service</string>
+    <string name="connected">已连接</string>
+    <string name="grant_permission">授予权限</string>
+    <string name="permission_required">需要悬浮窗权限才能显示检测框</string>
+    <string name="service_running">YOLO 检测覆盖层运行中</string>
+    <string name="start_service">启动服务</string>
+    <string name="stop_service">停止服务</string>
+    <string name="waiting_connection">等待 PC 连接...</string>
+    <style name="Theme.YoloOverlay" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">#FF6200EE</item>
+        <item name="colorPrimaryVariant">#FF3700B3</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondary">#FF03DAC5</item>
+        <item name="colorSecondaryVariant">#FF018786</item>
+        <item name="colorOnSecondary">#000000</item>
+    </style>
+</resources>

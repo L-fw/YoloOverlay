@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/pycharm/YoloGPU/YoloOverlay/app/.cxx/Debug/735i6d5h/arm64-v8a",
+  "command": "D:\\Android\\SDK\\ndk\\25.2.9519653\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android26 --sysroot=D:/Android/SDK/ndk/25.2.9519653/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dyolo_ncnn_EXPORTS -isystem D:/pycharm/YoloGPU/YoloOverlay/app/src/main/jni/ncnn-android-vulkan/arm64-v8a/include/ncnn -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++17 -fno-limit-debug-info  -fPIC -O3 -ffast-math -fno-rtti -fno-exceptions -pthread -std=gnu++17 -o CMakeFiles\\yolo_ncnn.dir\\yolo_ncnn.cpp.o -c D:\\pycharm\\YoloGPU\\YoloOverlay\\app\\src\\main\\jni\\yolo_ncnn.cpp",
+  "file": "D:\\pycharm\\YoloGPU\\YoloOverlay\\app\\src\\main\\jni\\yolo_ncnn.cpp"
+}
+]

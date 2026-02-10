@@ -1,0 +1,4 @@
+#Mon Feb 09 11:22:10 CST 2026
+base.0=D\:\\pycharm\\YoloGPU\\YoloOverlay\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+path.0=0/classes.dex
+renamed.0=classes.dex

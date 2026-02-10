@@ -1,0 +1,2 @@
+ninja: Entering directory `D:\pycharm\YoloGPU\YoloOverlay\app\.cxx\Debug\453k1423\arm64-v8a'
+[1/1] Linking CXX shared library D:\pycharm\YoloGPU\YoloOverlay\app\build\intermediates\cxx\Debug\453k1423\obj\arm64-v8a\libyolo_ncnn.so

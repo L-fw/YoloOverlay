@@ -1,0 +1,4 @@
+CMake Warning at CMakeLists.txt:17 (message):
+  NCNN not found, building stub library
+
+

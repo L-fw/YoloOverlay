@@ -1,0 +1,174 @@
+[
+    {
+        "merged": "C:\\Users\\佳影环球\\.gradle\\daemon\\8.7\\com.yolo.overlay.app-debug-31:\\mipmap-xxxhdpi_ic_launcher_2_round.webp.flat",
+        "source": "C:\\Users\\佳影环球\\.gradle\\daemon\\8.7\\com.yolo.overlay.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_2_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\佳影环球\\.gradle\\daemon\\8.7\\com.yolo.overlay.app-debug-31:\\mipmap-xhdpi_ic_launcher_2_round.webp.flat",
+        "source": "C:\\Users\\佳影环球\\.gradle\\daemon\\8.7\\com.yolo.overlay.app-main-33:\\mipmap-xhdpi\\ic_launcher_2_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\佳影环球\\.gradle\\daemon\\8.7\\com.yolo.overlay.app-debug-31:\\mipmap-hdpi_ic_launcher_2.webp.flat",
+        "source": "C:\\Users\\佳影环球\\.gradle\\daemon\\8.7\\com.yolo.overlay.app-main-33:\\mipmap-hdpi\\ic_launcher_2.webp"
+    },
+    {
+        "merged": "C:\\Users\\佳影环球\\.gradle\\daemon\\8.7\\com.yolo.overlay.app-debug-31:\\mipmap-mdpi_ic_launcher_2_foreground.webp.flat",
+        "source": "C:\\Users\\佳影环球\\.gradle\\daemon\\8.7\\com.yolo.overlay.app-main-33:\\mipmap-mdpi\\ic_launcher_2_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\佳影环球\\.gradle\\daemon\\8.7\\com.yolo.overlay.app-debug-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\佳影环球\\.gradle\\daemon\\8.7\\com.yolo.overlay.app-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\佳影环球\\.gradle\\daemon\\8.7\\com.yolo.overlay.app-debug-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\佳影环球\\.gradle\\daemon\\8.7\\com.yolo.overlay.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\佳影环球\\.gradle\\daemon\\8.7\\com.yolo.overlay.app-debug-31:\\mipmap-xxhdpi_ic_launcher_2_foreground.webp.flat",
+        "source": "C:\\Users\\佳影环球\\.gradle\\daemon\\8.7\\com.yolo.overlay.app-main-33:\\mipmap-xxhdpi\\ic_launcher_2_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\佳影环球\\.gradle\\daemon\\8.7\\com.yolo.overlay.app-debug-31:\\drawable_bg_card.xml.flat",
+        "source": "C:\\Users\\佳影环球\\.gradle\\daemon\\8.7\\com.yolo.overlay.app-main-33:\\drawable\\bg_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\佳影环球\\.gradle\\daemon\\8.7\\com.yolo.overlay.app-debug-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\佳影环球\\.gradle\\daemon\\8.7\\com.yolo.overlay.app-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\佳影环球\\.gradle\\daemon\\8.7\\com.yolo.overlay.app-debug-31:\\drawable_bg_main_gradient.xml.flat",
+        "source": "C:\\Users\\佳影环球\\.gradle\\daemon\\8.7\\com.yolo.overlay.app-main-33:\\drawable\\bg_main_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\佳影环球\\.gradle\\daemon\\8.7\\com.yolo.overlay.app-debug-31:\\xml_accessibility_service_config.xml.flat",
+        "source": "C:\\Users\\佳影环球\\.gradle\\daemon\\8.7\\com.yolo.overlay.app-main-33:\\xml\\accessibility_service_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\佳影环球\\.gradle\\daemon\\8.7\\com.yolo.overlay.app-debug-31:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\佳影环球\\.gradle\\daemon\\8.7\\com.yolo.overlay.app-main-33:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\佳影环球\\.gradle\\daemon\\8.7\\com.yolo.overlay.app-debug-31:\\drawable_bg_btn_primary.xml.flat",
+        "source": "C:\\Users\\佳影环球\\.gradle\\daemon\\8.7\\com.yolo.overlay.app-main-33:\\drawable\\bg_btn_primary.xml"
+    },
+    {
+        "merged": "com.yolo.overlay.app-debug-31:/layout_activity_main.xml.flat",
+        "source": "com.yolo.overlay.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\佳影环球\\.gradle\\daemon\\8.7\\com.yolo.overlay.app-debug-31:\\drawable_bg_spinner.xml.flat",
+        "source": "C:\\Users\\佳影环球\\.gradle\\daemon\\8.7\\com.yolo.overlay.app-main-33:\\drawable\\bg_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\佳影环球\\.gradle\\daemon\\8.7\\com.yolo.overlay.app-debug-31:\\mipmap-xxhdpi_ic_launcher_2.webp.flat",
+        "source": "C:\\Users\\佳影环球\\.gradle\\daemon\\8.7\\com.yolo.overlay.app-main-33:\\mipmap-xxhdpi\\ic_launcher_2.webp"
+    },
+    {
+        "merged": "C:\\Users\\佳影环球\\.gradle\\daemon\\8.7\\com.yolo.overlay.app-debug-31:\\mipmap-mdpi_ic_launcher_2.webp.flat",
+        "source": "C:\\Users\\佳影环球\\.gradle\\daemon\\8.7\\com.yolo.overlay.app-main-33:\\mipmap-mdpi\\ic_launcher_2.webp"
+    },
+    {
+        "merged": "C:\\Users\\佳影环球\\.gradle\\daemon\\8.7\\com.yolo.overlay.app-debug-31:\\layout_spinner_item.xml.flat",
+        "source": "C:\\Users\\佳影环球\\.gradle\\daemon\\8.7\\com.yolo.overlay.app-main-33:\\layout\\spinner_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\佳影环球\\.gradle\\daemon\\8.7\\com.yolo.overlay.app-debug-31:\\mipmap-xxxhdpi_ic_launcher_2_foreground.webp.flat",
+        "source": "C:\\Users\\佳影环球\\.gradle\\daemon\\8.7\\com.yolo.overlay.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_2_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\佳影环球\\.gradle\\daemon\\8.7\\com.yolo.overlay.app-debug-31:\\mipmap-hdpi_ic_launcher_2_round.webp.flat",
+        "source": "C:\\Users\\佳影环球\\.gradle\\daemon\\8.7\\com.yolo.overlay.app-main-33:\\mipmap-hdpi\\ic_launcher_2_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\佳影环球\\.gradle\\daemon\\8.7\\com.yolo.overlay.app-debug-31:\\drawable_ic_arrow_down.xml.flat",
+        "source": "C:\\Users\\佳影环球\\.gradle\\daemon\\8.7\\com.yolo.overlay.app-main-33:\\drawable\\ic_arrow_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\佳影环球\\.gradle\\daemon\\8.7\\com.yolo.overlay.app-debug-31:\\mipmap-xhdpi_ic_launcher_2_foreground.webp.flat",
+        "source": "C:\\Users\\佳影环球\\.gradle\\daemon\\8.7\\com.yolo.overlay.app-main-33:\\mipmap-xhdpi\\ic_launcher_2_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\佳影环球\\.gradle\\daemon\\8.7\\com.yolo.overlay.app-debug-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\佳影环球\\.gradle\\daemon\\8.7\\com.yolo.overlay.app-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\佳影环球\\.gradle\\daemon\\8.7\\com.yolo.overlay.app-debug-31:\\mipmap-xhdpi_ic_launcher_2.webp.flat",
+        "source": "C:\\Users\\佳影环球\\.gradle\\daemon\\8.7\\com.yolo.overlay.app-main-33:\\mipmap-xhdpi\\ic_launcher_2.webp"
+    },
+    {
+        "merged": "C:\\Users\\佳影环球\\.gradle\\daemon\\8.7\\com.yolo.overlay.app-debug-31:\\drawable_bg_btn_secondary.xml.flat",
+        "source": "C:\\Users\\佳影环球\\.gradle\\daemon\\8.7\\com.yolo.overlay.app-main-33:\\drawable\\bg_btn_secondary.xml"
+    },
+    {
+        "merged": "C:\\Users\\佳影环球\\.gradle\\daemon\\8.7\\com.yolo.overlay.app-debug-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\佳影环球\\.gradle\\daemon\\8.7\\com.yolo.overlay.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\佳影环球\\.gradle\\daemon\\8.7\\com.yolo.overlay.app-debug-31:\\mipmap-anydpi-v26_ic_launcher_2_round.xml.flat",
+        "source": "C:\\Users\\佳影环球\\.gradle\\daemon\\8.7\\com.yolo.overlay.app-main-33:\\mipmap-anydpi-v26\\ic_launcher_2_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\佳影环球\\.gradle\\daemon\\8.7\\com.yolo.overlay.app-debug-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\佳影环球\\.gradle\\daemon\\8.7\\com.yolo.overlay.app-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\佳影环球\\.gradle\\daemon\\8.7\\com.yolo.overlay.app-debug-31:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\佳影环球\\.gradle\\daemon\\8.7\\com.yolo.overlay.app-main-33:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\佳影环球\\.gradle\\daemon\\8.7\\com.yolo.overlay.app-debug-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\佳影环球\\.gradle\\daemon\\8.7\\com.yolo.overlay.app-main-33:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\佳影环球\\.gradle\\daemon\\8.7\\com.yolo.overlay.app-debug-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\佳影环球\\.gradle\\daemon\\8.7\\com.yolo.overlay.app-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\佳影环球\\.gradle\\daemon\\8.7\\com.yolo.overlay.app-debug-31:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\佳影环球\\.gradle\\daemon\\8.7\\com.yolo.overlay.app-main-33:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\佳影环球\\.gradle\\daemon\\8.7\\com.yolo.overlay.app-debug-31:\\mipmap-xxhdpi_ic_launcher_2_round.webp.flat",
+        "source": "C:\\Users\\佳影环球\\.gradle\\daemon\\8.7\\com.yolo.overlay.app-main-33:\\mipmap-xxhdpi\\ic_launcher_2_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\佳影环球\\.gradle\\daemon\\8.7\\com.yolo.overlay.app-debug-31:\\mipmap-mdpi_ic_launcher_2_round.webp.flat",
+        "source": "C:\\Users\\佳影环球\\.gradle\\daemon\\8.7\\com.yolo.overlay.app-main-33:\\mipmap-mdpi\\ic_launcher_2_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\佳影环球\\.gradle\\daemon\\8.7\\com.yolo.overlay.app-debug-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\佳影环球\\.gradle\\daemon\\8.7\\com.yolo.overlay.app-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\佳影环球\\.gradle\\daemon\\8.7\\com.yolo.overlay.app-debug-31:\\layout_spinner_dropdown_item.xml.flat",
+        "source": "C:\\Users\\佳影环球\\.gradle\\daemon\\8.7\\com.yolo.overlay.app-main-33:\\layout\\spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\佳影环球\\.gradle\\daemon\\8.7\\com.yolo.overlay.app-debug-31:\\mipmap-anydpi-v26_ic_launcher_2.xml.flat",
+        "source": "C:\\Users\\佳影环球\\.gradle\\daemon\\8.7\\com.yolo.overlay.app-main-33:\\mipmap-anydpi-v26\\ic_launcher_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\佳影环球\\.gradle\\daemon\\8.7\\com.yolo.overlay.app-debug-31:\\drawable_ic_launcher_2_background.xml.flat",
+        "source": "C:\\Users\\佳影环球\\.gradle\\daemon\\8.7\\com.yolo.overlay.app-main-33:\\drawable\\ic_launcher_2_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\佳影环球\\.gradle\\daemon\\8.7\\com.yolo.overlay.app-debug-31:\\mipmap-hdpi_ic_launcher_2_foreground.webp.flat",
+        "source": "C:\\Users\\佳影环球\\.gradle\\daemon\\8.7\\com.yolo.overlay.app-main-33:\\mipmap-hdpi\\ic_launcher_2_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\佳影环球\\.gradle\\daemon\\8.7\\com.yolo.overlay.app-debug-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\佳影环球\\.gradle\\daemon\\8.7\\com.yolo.overlay.app-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\佳影环球\\.gradle\\daemon\\8.7\\com.yolo.overlay.app-debug-31:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\佳影环球\\.gradle\\daemon\\8.7\\com.yolo.overlay.app-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\佳影环球\\.gradle\\daemon\\8.7\\com.yolo.overlay.app-debug-31:\\mipmap-xxxhdpi_ic_launcher_2.webp.flat",
+        "source": "C:\\Users\\佳影环球\\.gradle\\daemon\\8.7\\com.yolo.overlay.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_2.webp"
+    },
+    {
+        "merged": "C:\\Users\\佳影环球\\.gradle\\daemon\\8.7\\com.yolo.overlay.app-debug-31:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\佳影环球\\.gradle\\daemon\\8.7\\com.yolo.overlay.app-main-33:\\mipmap-mdpi\\ic_launcher.webp"
+    }
+]

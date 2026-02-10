@@ -1,0 +1,3 @@
+D:/pycharm/YoloGPU/YoloOverlay/app/.cxx/Debug/453k1423/arm64-v8a/CMakeFiles/yolo_ncnn.dir
+D:/pycharm/YoloGPU/YoloOverlay/app/.cxx/Debug/453k1423/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/pycharm/YoloGPU/YoloOverlay/app/.cxx/Debug/453k1423/arm64-v8a/CMakeFiles/rebuild_cache.dir

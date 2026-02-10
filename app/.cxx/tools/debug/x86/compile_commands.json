@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/pycharm/YoloGPU/YoloOverlay/app/.cxx/Debug/6n651z57/x86",
+  "command": "D:\\Android\\SDK\\ndk\\26.1.10909125\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android26 --sysroot=D:/Android/SDK/ndk/26.1.10909125/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dyolo_uinput_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles\\yolo-uinput.dir\\native-lib.cpp.o -c D:\\pycharm\\YoloGPU\\YoloOverlay\\app\\src\\main\\cpp\\native-lib.cpp",
+  "file": "D:\\pycharm\\YoloGPU\\YoloOverlay\\app\\src\\main\\cpp\\native-lib.cpp"
+}
+]

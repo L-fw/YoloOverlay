@@ -1,0 +1,4 @@
+com.yolo.overlay.test.app-androidTest-0 D:\pycharm\YoloGPU\YoloOverlay\app\build\generated\res\resValues\androidTest\debug
+com.yolo.overlay.test.app-mergeDebugAndroidTestResources-1 D:\pycharm\YoloGPU\YoloOverlay\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.yolo.overlay.test.app-mergeDebugAndroidTestResources-2 D:\pycharm\YoloGPU\YoloOverlay\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.yolo.overlay.test.app-debugAndroidTest-3 D:\pycharm\YoloGPU\YoloOverlay\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
